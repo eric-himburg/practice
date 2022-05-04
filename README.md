@@ -1,2 +1,2 @@
 # practice
-will practice creating branches
+will practice using a repository
